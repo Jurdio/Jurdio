@@ -1,8 +1,8 @@
-# Hi there, I'm [Daniil](https://daniilshat.ru/)
+# Hi thefdfdre, I'm [Daniil](https://daniilshat.ru/)
 ### Computer science student, IT news writer from Russia 🇷🇺
 [![.](https://komarev.com/ghpvc/?username=Jurdio&color=yellowgreen)](https://github.com/Jurdio)  [![codewars](https://www.codewars.com/users/DmytroKupets/badges/micro)](https://www.codewars.com/users/DmytroKupets)
 
-
+ggtgt
 <!-- markdownlint-disable MD033 MD041 -->
 
 
