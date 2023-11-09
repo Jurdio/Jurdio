@@ -4,13 +4,16 @@
 <h1>Hi there, I'm <a href="https://www.linkedin.com/in/dmytro-kupets/" target="_blank">Dmytro</a> 
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt=""></h1>
 <h3>Student of telecommunications and radio engineering, author of IT news from Ukraine 🇺🇦</h3>
-
+</div>
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=500&center=true&vCenter=true&random=false&width=350&lines=Java+Developer;Software+Development+Engineer" alt="Typing SVG" /></a>
-
+  </div>
+<div align="center">
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jurdio&theme=ayu_mirage)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jurdio&theme=ayu_mirage)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jurdio&theme=ayu_mirage)
-
+</div>
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
