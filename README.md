@@ -1,4 +1,6 @@
+<h1 align="center">Hi there, I'm</h1>
 ![](https://komarev.com/ghpvc/?username=Jurdio&color=yellowgreen)
+<h1 align="center">Hi there, I'm</h1>
 
 <div align="center">
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/dmytro-kupets/" target="_blank"/>Dmytro</a> 
