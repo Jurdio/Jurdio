@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD033 MD041 -->
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
 
   <!-- GitHub Profile Views -->
@@ -9,6 +10,7 @@
   </a>
 
 </div>
+<!-- markdownlint-enable MD033 -->
 
 <!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
