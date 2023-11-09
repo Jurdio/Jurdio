@@ -25,6 +25,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
-    
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=One%20day%20or%20day%20one...%20Ahh..%20I`ll%20do%20it%20one%20day.%20Okay..%20that`s%20up%20to%20you...%20or%20day%20one">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord">
 </div>
