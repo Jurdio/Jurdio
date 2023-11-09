@@ -6,9 +6,7 @@
 
   <!-- Codewars Badge -->
   <a href="https://www.codewars.com/users/DmytroKupets" target="_blank">
-    <img src="https://www.codewars.com/users/DmytroKupets/badges/micro" alt="Codewars Badge">
-  </a>
-
+      <img src="https://www.codewars.com/users/DmytroKupets/badges/micro" alt="Codewars Badge"></a>
 </div>
 <!-- markdownlint-enable MD033 -->
 
