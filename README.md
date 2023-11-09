@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD033 MD041 -->
+
 
 <h1 align="center">Hi there, I'm Dmytro
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
@@ -7,14 +7,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=500&center=true&vCenter=true&random=false&width=350&lines=Java+Developer;Software+Development+Engineer">
 </div>
 
-<!-- markdownlint-enable MD033 -->
+
 
 <div align="center">
-    
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jurdio&theme=ayu_mirage">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jurdio&theme=ayu_mirage">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jurdio&theme=ayu_mirage">
-
 </div>
 
 # 📜 Blog posts
