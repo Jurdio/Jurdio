@@ -8,5 +8,5 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jurdio&theme=ayu_mirage">
 </div>
 <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=ndord">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&qote">
 </div>
