@@ -4,7 +4,8 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=500&random=false&width=435&lines=Trainee+Senior+Java+Developer;Java+Developer" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=500&random=false&width=350&lines=Java+Developer;Trainee+Senior+Java+Developer" alt="Typing SVG" />
     </a>
 </p>
+
 
