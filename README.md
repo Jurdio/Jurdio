@@ -11,10 +11,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jurdio&theme=ayu_mirage)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jurdio&theme=ayu_mirage)
 
-</div>
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<div align="center">
     
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord&quote=One%20day%20or%20day%20one...%20Ahh..%20I`ll%20do%20it%20one%20day.%20Okay..%20that`s%20up%20to%20you...%20or%20day%20one)
 
