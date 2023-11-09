@@ -1,5 +1,5 @@
 
-![.](https://komarev.com/ghpvc/?username=Jurdio&color=yellowgreen)  [![codewars](https://www.codewars.com/users/DmytroKupets/badges/micro)](https://www.codewars.com/users/DmytroKupets)
+[![.](https://komarev.com/ghpvc/?username=Jurdio&color=yellowgreen)](https://github.com/Jurdio)  [![codewars](https://www.codewars.com/users/DmytroKupets/badges/micro)](https://www.codewars.com/users/DmytroKupets)
 
 
 <!-- markdownlint-disable MD033 MD041 -->
