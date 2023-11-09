@@ -5,7 +5,7 @@
 <!-- markdownlint-disable MD033 MD041 -->
 
 
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/dmytro-kupets/" target="_blank"/>Dmytro</a> 
+<h1 align="center">Hi there, I'm Dmytro
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
 <h3 align="center">Student of telecommunications and radio engineering, author of IT news from Ukraine 🇺🇦</h3>
 <div align="center">
