@@ -1,14 +1,4 @@
-<!-- markdownlint-disable MD033 MD041 -->
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-
-  <!-- GitHub Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Jurdio&color=yellowgreen" alt="GitHub Profile Views" style="margin-right: 20px;">
-
-  <!-- Codewars Badge -->
-  <a href="https://www.codewars.com/users/DmytroKupets" target="_blank">
-      <img src="https://www.codewars.com/users/DmytroKupets/badges/micro" alt="Codewars Badge"></a>
-</div>
-<!-- markdownlint-enable MD033 -->
+![](https://komarev.com/ghpvc/?username=Jurdio&color=yellowgreen)  [![codewars](https://www.codewars.com/users/DmytroKupets/badges/micro)](https://www.codewars.com/users/DmytroKupets)
 
 <!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
