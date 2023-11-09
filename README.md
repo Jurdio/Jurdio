@@ -7,7 +7,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jurdio&theme=ayu_mirage">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jurdio&theme=ayu_mirage">
 </div>
-
 <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=ndord">
 </div>
